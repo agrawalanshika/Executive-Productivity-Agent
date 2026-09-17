@@ -1,7 +1,4 @@
 # Executive Productivity Agent | AIONOS Agentic AI Factory
-**Assignment 1 — Executive Productivity Agent**  
-*Candidate Submission for Arjun Malhotra (VP Sales, Veridian Corp)*  
-*Week of Evaluation: September 21–25, 2026*
 
 ---
 
