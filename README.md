@@ -16,7 +16,31 @@ The **Executive Productivity Agent** is a full-stack, enterprise-grade AI system
 
 ---
 
-## 2. Architecture & Process Flow
+## 2. Screenshots
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="public/assets/img1.jpeg" width="450" height="250" alt="Image 1">
+      </td>
+      <td align="center">
+        <img src="public/assets/img2.jpeg" width="450" height="250" alt="Image 2">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="public/assets/img3.jpeg" width="450" height="250" alt="Image 3">
+      </td>
+      <td align="center">
+        <img src="public/assets/img4.jpeg" width="450" height="250" alt="Image 4">
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+## 3. Architecture & Process Flow
 
 The agent implements an 8-stage deterministic and agentic pipeline:
 
@@ -57,7 +81,7 @@ The agent implements an 8-stage deterministic and agentic pipeline:
 
 ---
 
-## 3. Inputs, Sources & Assumptions
+## 4. Inputs, Sources & Assumptions
 
 ### Authoritative Sources Ingested
 1. **Meeting Transcript:** *Veridian Corp — Executive Leadership Weekly Sync* (Monday, 21 September 2026, 09:00 – 10:00 AM).
@@ -79,7 +103,7 @@ The agent implements an 8-stage deterministic and agentic pipeline:
 
 ---
 
-## 4. List of AI Tools Used & How They Were Used
+## 5. List of AI Tools Used & How They Were Used
 
 As per Mandatory Deliverable #4:
 1. **Google Gemini 3.8 Flash (`@google/genai` TypeScript SDK):**
@@ -97,7 +121,7 @@ As per Mandatory Deliverable #4:
 
 ---
 
-## 5. Canonical Actions Inventory (8 Deduplicated Actions)
+## 6. Canonical Actions Inventory (8 Deduplicated Actions)
 
 | ID | Canonical Title | Owner | Counterparty | Classification | Resolved Deadline | Final Status | Sources Merged |
 |---|---|---|---|---|---|---|---|
@@ -114,7 +138,7 @@ As per Mandatory Deliverable #4:
 
 ---
 
-## 6. Installation & Local Development
+## 7. Installation & Local Development
 
 ### Prerequisites
 - Node.js 18+
@@ -145,3 +169,7 @@ http://localhost:3000
 npm run build
 npm start
 ```
+---
+
+## Author
+**Anshika Agrawal 👧🏻**
