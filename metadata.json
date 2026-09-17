@@ -1,0 +1,6 @@
+{
+  "name": "Executive Productivity Agent",
+  "description": "Executive productivity agent converting messy multi-source business inputs into prioritized daily action briefs, tracking commitments, ownership, and grounded Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
