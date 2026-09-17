@@ -1,7 +1,5 @@
 # Executive Productivity Agent | AIONOS Agentic AI Factory
 
----
-
 ## 1. Executive Summary & Working Prototype
 The **Executive Productivity Agent** is a full-stack, enterprise-grade AI system that solves executive communication fragmentation. By ingesting unstructured meeting transcripts, 5 email threads (25 messages), 4 executive calendars, and private voice memos, the agent converts messy operational noise into a trusted, deduplicated **Daily Action Brief** with zero hallucination.
 
