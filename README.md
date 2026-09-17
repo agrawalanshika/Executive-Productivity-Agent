@@ -112,41 +112,9 @@ As per Mandatory Deliverable #4:
 
 ---
 
-## 6. 15-Minute Demo & Defence Structure
-
-### Demo Flow (15 Minutes)
-1. **00:00 – 03:00 | Problem & Architecture (Slides 1–3):** Explain the executive noise problem and walk through the 8-stage pipeline.
-2. **03:00 – 06:00 | Executive Briefing & Timeline Simulation (Slides 4–7):** Demonstrate the Daily Brief. Use the 5-day scrubber to show how the Vendor List transitions from *Open* on Monday to *Due Today* on Wednesday, and *Overdue* on Thursday/Friday.
-3. **06:00 – 09:00 | The Unclear Ownership Case Study (Slide 6):** Walk through the Mumbai Lease item. Show how the agent refuses to invent an owner and presents an urgent escalation card with full provenance.
-4. **09:00 – 12:00 | Grounded Conversational Q&A (Slides 8–9):** Query the agent with core business questions:
-   - *"What did I promise Raghav?"*
-   - *"What needs action today?"*
-   - *"What am I waiting on?"*
-   - *"Which items have unclear ownership?"*
-   Show verbatim source citations and quote verification cards.
-5. **12:00 – 15:00 | Defence, Critique & Production Roadmap (Slide 10):** Defend design choices, discuss enterprise edge cases (offline calls, informal messaging), and outline the production roadmap.
-
 ---
 
-## 7. Embedded 10-Slide Presentation Deck
-
-The application includes an embedded, interactive presentation deck under the **10-Slide Pitch & Defence** sidebar tab:
-- **Slide 1:** Title & Executive Overview
-- **Slide 2:** Problem Statement & Executive Cognitive Load
-- **Slide 3:** End-to-End System Architecture (8-Stage Pipeline)
-- **Slide 4:** Multi-Modal Ingestion & Temporal Normalization
-- **Slide 5:** Commitment Extraction & Deduplication Engine
-- **Slide 6:** Ownership Classification: The Non-Negotiable Anti-Hallucination Rule
-- **Slide 7:** Temporal Reasoning & Defensible Status Calculation
-- **Slide 8:** Executive User Experience & Daily Briefing UX
-- **Slide 9:** Natural Language Q&A with Citation Grounding
-- **Slide 10:** Defence, Real-World Limitations & Production Roadmap
-
-*Includes toggleable presenter speaking notes for each slide.*
-
----
-
-## 8. Installation & Local Development
+## 6. Installation & Local Development
 
 ### Prerequisites
 - Node.js 18+
