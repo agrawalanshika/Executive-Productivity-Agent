@@ -167,4 +167,4 @@ npm start
 ---
 
 ## Author
-**Anshika Agrawal 👧🏻**
+### Anshika Agrawal 👧🏻
